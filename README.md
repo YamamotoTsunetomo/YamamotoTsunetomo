@@ -24,4 +24,3 @@
 
 <h2>Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=yamamototsunetomo&show_icons=true&theme=nord"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamamototsunetomo&layout=compact&theme=nord" />
